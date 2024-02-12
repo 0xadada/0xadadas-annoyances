@@ -25,3 +25,5 @@ bostonglobe.com##html body:style(overflow: auto !important; position: static !im
 bostonglobe.com##.fancybox-overlay
 bostonglobe.com##.meter-paywall
 bostonglobe.com##meter-social-connect
+
+duckduckgo.com##[data-layout="organic"]:has([href*="freecodecamp.org"])
