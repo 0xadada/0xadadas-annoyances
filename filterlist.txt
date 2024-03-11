@@ -3,6 +3,8 @@ nytimes.com##.css-gx5sib
 nytimes.com##.css-1336jj
 nytimes.com##.css-1ichrj1
 
+newyorker.com##.paywall-modal
+
 forbes.com##.zephr-article-modal-modal
 forbes.com##.zephr-generic-modal
 forbes.com##.zephr-sign-in-backdrop
@@ -20,6 +22,7 @@ twitter.com##[data-testid="app-text-transition-container"]
 washingtonpost.com###wall-bottom-drawer
 washingtonpost.com##.bottom-0.right-0.fixed.o-50.h-100.w-100.bg-black.regwall-overlay
 washingtonpost.com##body:style(overflow: auto !important; height: auto; position:static;)
+washingtonpost.com##[data-qa="overlay-container"]
 
 bostonglobe.com##html body:style(overflow: auto !important; position: static !important)
 bostonglobe.com##.fancybox-overlay
