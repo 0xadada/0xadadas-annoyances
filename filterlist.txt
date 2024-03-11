@@ -4,6 +4,7 @@ nytimes.com##.css-1336jj
 nytimes.com##.css-1ichrj1
 
 newyorker.com##.paywall-modal
+newyorker.com##[data-journey-hook="persistent-bottom"]
 
 forbes.com##.zephr-article-modal-modal
 forbes.com##.zephr-generic-modal
