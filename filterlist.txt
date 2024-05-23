@@ -2,6 +2,7 @@ nytimes.com###gateway-content
 nytimes.com##.css-gx5sib
 nytimes.com##.css-1336jj
 nytimes.com##.css-1ichrj1
+nytimes.com##[data-testid="vi-gateway-container"]:style(overflow: auto !important; position: static !important;)
 
 newyorker.com##.paywall-modal
 newyorker.com##[data-journey-hook="persistent-bottom"]
