@@ -36,3 +36,5 @@ duckduckgo.com##[data-layout="organic"]:has([href*="freecodecamp.org"])
 semafor.com##.css-9i1294
 semafor.com##[data-testid="newsletter-barrier"]
 semafor.com##html body:style(overflow: auto !important)
+
+theguardian.com##aside>gu-island
