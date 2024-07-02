@@ -17,6 +17,10 @@ forbes.com##.zephr-save-article-paywall-modal
 forbes.com##.zephr-article-modal-backdrop
 forbes.com##.zephr-modal-open:style(overflow: auto !important)
 
+economist.com##.paywall
+economist.com##.adComponent
+economist.com##html:style(overflow: auto !important;)
+
 twitter.com##.css-1dbjc4n.r-x572qd.r-1d6w8o1.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
 twitter.com##.css-175oi2r.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x.r-g2wdr4.r-14wv3jr
 twitter.com##[data-testid="app-text-transition-container"]
