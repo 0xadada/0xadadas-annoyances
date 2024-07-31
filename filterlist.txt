@@ -4,6 +4,7 @@ nytimes.com##.css-1336jj
 nytimes.com##.css-1ichrj1
 nytimes.com##.css-1eas46n
 nytimes.com##[data-testid="vi-gateway-container"]:style(overflow: auto !important; position: static !important;)
+nytimes.com##[aria-labelledby^="post-title-ad"]
 nytimes.com###site-content:style(position: static !important;)
 
 newyorker.com##.paywall-modal
